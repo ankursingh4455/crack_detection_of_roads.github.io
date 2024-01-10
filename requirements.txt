@@ -1,0 +1,4 @@
+#Libraries= opencv2, numPy, Matplotlib
+#Algorithms= ORB, Closing operators
+#Images set
+#Python idle, VScode

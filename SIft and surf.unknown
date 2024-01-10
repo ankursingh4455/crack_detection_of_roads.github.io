@@ -1,0 +1,2 @@
+# sift = cv2.xfeatures2d.SIFT_create()
+# surf = cv2.xfeatures2d.SURF_create()
